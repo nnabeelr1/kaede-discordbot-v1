@@ -1,6 +1,6 @@
 # Kaede AI - Bot Discord Multifungsi
 
-![Kaede Banner](./images/banner-kaede.png)
+![Kaede Banner](./images/banner%20kaede .png)
 
 Kaede adalah sebuah bot Discord AI serbaguna yang dirancang untuk menjadi lebih dari sekadar asisten. Ditenagai oleh model AI generatif canggih dari Google (Gemini), Kaede mampu memahami konteks, memberikan jawaban mendalam, membantu dalam tugas-tugas kompleks seperti *coding*, dan bahkan menjadi teman ngobrol yang empatik.
 
